@@ -1,2 +1,2 @@
-# edu12-frontend-gitops
-frontend ( react )
+# frontend-gitops-kust
+frontend ( vue3 )
