@@ -6,5 +6,3 @@ resources:
 images:
 - name: ghcr.io/kt-cloudnative/vue_crud_security
   newTag: "20240206233917"
-- name: ghcr.io/shclub/vue3
-  newTag: v3
